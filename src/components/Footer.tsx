@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
               className="h-8 mr-2"
             />
             <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-cyan-300">
-              OnceHuman.latam
+              OnceHuman.lat
             </span>
           </div>
           
