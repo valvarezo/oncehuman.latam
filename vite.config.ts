@@ -7,4 +7,7 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
   base: '/',
+  server: {
+    https: true
+  },
 });
