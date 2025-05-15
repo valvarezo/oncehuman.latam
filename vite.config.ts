@@ -6,5 +6,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/oncehuman-latam/', // Ajusta esto al nombre de tu repositorio
+  base: '/oncehuman.latam/',
 });
