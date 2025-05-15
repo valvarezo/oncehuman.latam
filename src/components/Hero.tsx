@@ -109,7 +109,7 @@ const Hero: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-6">
             <a 
-              href="https://discord.gg/oncehuman" 
+              href="https://discord.gg/SVYF6SC8hd" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group bg-gradient-to-br from-accent-600 to-accent-700 text-white px-8 py-4 rounded-lg text-lg font-medium transition-all duration-300 hover:shadow-xl hover:shadow-accent-600/20 hover:scale-[1.02] flex items-center justify-center relative overflow-hidden"

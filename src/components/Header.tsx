@@ -83,7 +83,7 @@ const Header: React.FC = () => {
             Comunidad
           </button>
           <a 
-            href="https://discord.gg/oncehuman" 
+            href="https://discord.gg/SVYF6SC8hd" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-cyan-500 hover:bg-cyan-600 text-gray-900 font-semibold px-4 py-2 rounded transition-colors"
@@ -134,7 +134,7 @@ const Header: React.FC = () => {
             Comunidad
           </button>
           <a 
-            href="https://discord.gg/oncehuman" 
+            href="https://discord.gg/SVYF6SC8hd" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-cyan-500 hover:bg-cyan-600 text-gray-900 font-semibold px-4 py-2 rounded transition-colors text-center"

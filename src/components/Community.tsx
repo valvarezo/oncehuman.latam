@@ -60,7 +60,7 @@ const Community: React.FC = () => {
               </ul>
               
               <a 
-                href="https://discord.gg/oncehuman" 
+                href="https://discord.gg/SVYF6SC8hd" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-accent-600 hover:bg-accent-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300 hover:shadow-xl hover:shadow-accent-600/20 inline-block border border-accent-500/50"
