@@ -82,7 +82,7 @@ const Community: React.FC = () => {
         
         <div className="mt-16 text-center">
           <p className="text-gray-400 text-lg">
-            Ya somos más de <span className="text-accent-400 font-bold">100 jugadores</span> en nuestra comunidad
+            Cada día somos <span className="text-accent-400 font-bold">más jugadores unidos</span> en esta aventura
           </p>
         </div>
       </div>
